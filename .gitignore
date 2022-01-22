@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Kafka.PoC/v16
+/src/consumer/Kafka.PoC.Consumer/bin/Debug/netcoreapp3.1
+/src/consumer/Kafka.PoC.Consumer/obj
+/src/producer/Kafka.PoC.Producer/bin/Debug/netcoreapp3.1
+/src/producer/Kafka.PoC.Producer/obj
